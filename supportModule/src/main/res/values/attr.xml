@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomStencilChild">
+        <attr name="stencil_required" format="boolean" />
+        <attr name="stencil_min_alpha" format="float" />
+        <attr name="stencil_max_alpha" format="float" />
+        <attr name="stencil_duration" format="integer" />
+    </declare-styleable>
+</resources>
